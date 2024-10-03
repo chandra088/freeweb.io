@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "country_name": "Canada",
+      "capital": "Ottawa",
+      "population": 38008005,
+      "interesting_fact": "Canada has the longest coastline of any country in the world, stretching over 202,080 kilometers."
+    },
+    {
+      "id": 2,
+      "country_name": "Brazil",
+      "capital": "Brasília",
+      "population": 212559409,
+      "interesting_fact": "Brazil is home to the Amazon Rainforest, which produces 20% of the world's oxygen."
+    },
+    {
+      "id": 3,
+      "country_name": "Japan",
+      "capital": "Tokyo",
+      "population": 125960000,
+      "interesting_fact": "Japan has more than 6,800 islands, although most of its population lives on just four main islands."
+    },
+    {
+      "id": 4,
+      "country_name": "Germany",
+      "capital": "Berlin",
+      "population": 83166711,
+      "interesting_fact": "Germany is home to over 20,000 castles, including the famous Neuschwanstein Castle that inspired Disney's Sleeping Beauty castle."
+    },
+    {
+      "id": 5,
+      "country_name": "Australia",
+      "capital": "Canberra",
+      "population": 25687041,
+      "interesting_fact": "Australia is the only continent covered by a single country and is home to more kangaroos than people."
+    },
+    {
+      "id": 6,
+      "country_name": "Kenya",
+      "capital": "Nairobi",
+      "population": 53771296,
+      "interesting_fact": "Kenya is known as the 'cradle of humanity,' where some of the oldest human fossils have been found."
+    },
+    {
+      "id": 7,
+      "country_name": "India",
+      "capital": "New Delhi",
+      "population": 1393409038,
+      "interesting_fact": "India is the largest producer of spices in the world, exporting to over 150 countries."
+    },
+    {
+      "id": 8,
+      "country_name": "France",
+      "capital": "Paris",
+      "population": 67348000,
+      "interesting_fact": "France is the most visited country in the world, attracting nearly 90 million tourists annually."
+    },
+    {
+      "id": 9,
+      "country_name": "South Africa",
+      "capital": "Pretoria",
+      "population": 59308690,
+      "interesting_fact": "South Africa has three capitals: Pretoria (executive), Bloemfontein (judicial), and Cape Town (legislative)."
+    },
+    {
+      "id": 10,
+      "country_name": "Mexico",
+      "capital": "Mexico City",
+      "population": 126190788,
+      "interesting_fact": "Mexico City is sinking about 10 inches a year because it was built on top of an ancient lakebed."
+    }
+  ]
+  
